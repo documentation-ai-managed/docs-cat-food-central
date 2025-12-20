@@ -3,17 +3,21 @@
   "initialRoute": "introduction",
   "colors": {
     "light": {
-      "brand": "#0f3424"
+      "brand": "#032F1E",
+      "heading": "#032F1E",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#4b675b"
+      "brand": "#F5FBF8",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentation",
-        "icon": "book",
+        "tab": "Articles",
+        "icon": "book-open-icon",
         "groups": [
           {
             "group": "Getting Started",
@@ -30,6 +34,11 @@
                 "icon": "zap"
               }
             ]
+          },
+          {
+            "group": "Score Methodology",
+            "pages": [],
+            "icon": "disc"
           },
           {
             "group": "Core Concepts",
@@ -121,5 +130,11 @@
         ]
       }
     ]
+  },
+  "seo": {
+    "robots:index": false,
+    "robots:follow": false,
+    "sitemap:enabled": false,
+    "llms-txt:enabled": false
   }
 }
