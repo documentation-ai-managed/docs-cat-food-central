@@ -1,0 +1,120 @@
+---
+title: Exploring Features of Cat Food Central
+description: Dive into the core capabilities of the platform, from searching the database to detailed food evaluations and comparisons.
+---
+
+## Overview
+
+Cat Food Central empowers you to discover the best dry cat food for your feline friend. With a database covering 1362 products from over 300 brands, you can filter, analyze, and compare options based on nutrition, price, ratings, and more. Use advanced tools to make data-driven choices tailored to your cat's needs.
+
+<Columns cols={3}>
+  <Card title="Advanced Search" icon="search" href="#advanced-search">
+    Filter by nutrition, price, and ratings to find ideal matches.
+  </Card>
+  <Card title="Detailed Analysis" icon="bar-chart" href="#detailed-analysis">
+    Examine ingredients and nutritional breakdowns in depth.
+  </Card>
+  <Card title="Side-by-Side Comparison" icon="layout" href="#comparisons">
+    Evaluate multiple foods simultaneously.
+  </Card>
+</Columns>
+
+## Advanced Search Filters
+
+Narrow down the vast database using precise filters for nutrition, price, and ratings.
+
+<Tabs>
+  <Tab title="Nutrition" icon="apple">
+    Filter by protein content, fat levels, and fiber. For example, select foods with protein `{>30%}` and fat `{<15%}` for active cats.
+
+    ```javascript
+    // Example filter query
+    const filters = {
+      proteinMin: 30,
+      fatMax: 15,
+      fiberRange: "2-5%"
+    };
+    ```
+
+    <Callout kind="tip">
+      Prioritize crude protein over guaranteed analysis for accurate comparisons.
+    </Callout>
+  </Tab>
+
+  <Tab title="Price" icon="dollar-sign">
+    Set budgets per pound or per bag size. Compare value across premium and budget brands like Purina or Royal Canin.
+
+    | Price Range | Example Brands | Avg Rating |
+    |-------------|----------------|------------|
+    | `<$2/lb`   | Iams, Purina  | 3.2/5     |
+    | `$2-4/lb`  | Hill's, Blue Buffalo | 4.1/5 |
+    | `>$4/lb`   | Orijen, Acana | 4.7/5     |
+  </Tab>
+
+  <Tab title="Ratings" icon="star">
+    Sort by overall score, ingredient quality, or species-appropriateness. Only view foods rated `{>4 stars}`.
+  </Tab>
+</Tabs>
+
+## Detailed Food Breakdowns
+
+Dive into individual products to understand what you're buying.
+
+<Steps>
+  <Step title="Search and Select" icon="search">
+    Enter a brand like "Wellness CORE" and apply filters.
+  </Step>
+  <Step title="View Ingredients" icon="list">
+    Scroll to the ingredient list. Look for named meat sources first, avoiding corn or by-products.
+  </Step>
+  <Step title="Analyze Nutrition" icon="activity">
+    Check the guaranteed analysis panel for protein, fat, and carb estimates (calculated as 100% minus protein + fat + fiber + ash + moisture).
+  </Step>
+</Steps>
+
+<Expandable title="Nutritional Calculation Example" default-open="false">
+  Carbs are not listed but estimated:
+
+  ```
+  Estimated Carbs = 100 - (Protein + Fat + Fiber + Ash + Moisture)
+  Example: Wellness CORE - 44% protein, 18% fat, 4% fiber, 8% ash, 10% moisture
+           Carbs ≈ 16%
+  ```
+</Expandable>
+
+## Side-by-Side Comparisons
+
+Compare up to 5 foods at once to spot differences.
+
+1. Add products to your comparison list from search results.
+2. Access the comparison view to see aligned tables for ingredients, nutrition, and ratings.
+
+| Food                  | Protein | Fat | Carbs (est.) | Price/lb | Rating |
+|-----------------------|---------|-----|--------------|----------|--------|
+| Wellness CORE        | 44%    | 18% | 16%         | $4.20   | 4.6   |
+| Purina Pro Plan      | 42%    | 16% | 22%         | $2.10   | 4.2   |
+| Orijen Regional Red  | 40%    | 20% | 10%         | $6.50   | 4.8   |
+
+## Quality Ratings and Criteria
+
+Our ratings combine expert analysis and user feedback.
+
+<Callout kind="info">
+  Ratings range from 1-5 stars. Higher scores favor whole prey ingredients, minimal plant fillers, and balanced nutrition mimicking a cat's natural diet.
+</Callout>
+
+Key criteria include:
+
+- **Ingredient Quality** (40%): First 5 ingredients must be animal-based.
+- **Species Appropriateness** (30%): High protein, low carb `{<20%}`.
+- **Product Quality** (20%): No artificial additives.
+- **Helpers** (10%): Probiotics, omega fatty acids.
+
+<Columns cols={2}>
+  <Card title="Top Rated Foods" icon="award" href="https://catfoodcentral.com/top-rated">
+    Discover leaders like Ziwi Peak.
+  </Card>
+  <Card title="Learn More" icon="book-open" href="/guide/ratings-methodology">
+    Full methodology details.
+  </Card>
+</Columns>
