@@ -37,8 +37,76 @@
           },
           {
             "group": "Score Methodology",
-            "pages": [],
-            "icon": "disc"
+            "icon": "disc",
+            "pages": [
+              {
+                "title": "Introduction to Scoring",
+                "path": "score-calculation-methodology",
+                "icon": "info"
+              },
+              {
+                "title": "The Nine Calculation Rules",
+                "path": "nine-score-calculation-rules",
+                "icon": "list"
+              },
+              {
+                "title": "Food Composition & Nutrition",
+                "path": "guaranteed-analysis",
+                "icon": "pie-chart"
+              },
+              {
+                "title": "Dry Matter Basis Calculation",
+                "path": "dry-matter-basis-calculation",
+                "icon": "calculator"
+              },
+              {
+                "title": "Ingredient Order & Weight",
+                "path": "ingredient-order-relative-weight",
+                "icon": "bar-chart"
+              },
+              {
+                "group": "Scoring Rules",
+                "icon": "check-square",
+                "pages": [
+                  {
+                    "title": "Rule 1: Carbohydrates",
+                    "path": "rule-1-carbohydrates"
+                  },
+                  {
+                    "title": "Rule 2: Protein Amount",
+                    "path": "rule-2-protein"
+                  },
+                  {
+                    "title": "Rule 3: Non-Meat Protein",
+                    "path": "rule-3-non-meat-protein"
+                  },
+                  {
+                    "title": "Rule 4: Meat & Fat Sources",
+                    "path": "rule-4-meat-fat-source"
+                  },
+                  {
+                    "title": "Rule 5: Chemical Additives",
+                    "path": "rule-5-chemical-additives"
+                  },
+                  {
+                    "title": "Rule 6: Additional Animal Protein",
+                    "path": "rule-6-additional-animal-protein"
+                  },
+                  {
+                    "title": "Rule 7: Meat Quality & Location",
+                    "path": "rule-7-meat-quality-location"
+                  },
+                  {
+                    "title": "Rule 8: Natural Taurine",
+                    "path": "rule-8-taurine"
+                  },
+                  {
+                    "title": "Rule 9: Chelated Minerals",
+                    "path": "rule-9-chelated-minerals"
+                  }
+                ]
+              }
+            ]
           },
           {
             "group": "Core Concepts",
@@ -48,6 +116,76 @@
                 "title": "Features",
                 "path": "features",
                 "icon": "star"
+              },
+              {
+                "group": "Nutritional Basics",
+                "icon": "heart",
+                "pages": [
+                  {
+                    "title": "Nutritional Requirements",
+                    "path": "nutritional-requirements-for-cats-in-dry-food"
+                  },
+                  {
+                    "title": "Crude Protein",
+                    "path": "crude-protein-in-dry-cat-food"
+                  },
+                  {
+                    "title": "Crude Fat",
+                    "path": "crude-fat-in-dry-cat-food"
+                  },
+                  {
+                    "title": "Crude Fiber",
+                    "path": "crude-fiber-in-dry-cat-food"
+                  },
+                  {
+                    "title": "Essential Fatty Acids",
+                    "path": "essential-fatty-acids"
+                  },
+                  {
+                    "title": "Calories & Metabolizable Energy",
+                    "path": "calories-and-metabolizable-energy-in-dry-cat-food"
+                  }
+                ]
+              },
+              {
+                "group": "Ingredients",
+                "icon": "package",
+                "pages": [
+                  {
+                    "title": "Common Ingredients",
+                    "path": "common-ingredients-in-dry-cat-food"
+                  },
+                  {
+                    "title": "Fresh vs Dried vs Meal Meats",
+                    "path": "meat-ingredients-fresh-dehydrated-meals"
+                  },
+                  {
+                    "title": "Dried Meat vs Fresh Meat",
+                    "path": "dried-meat-vs-fresh-meat"
+                  },
+                  {
+                    "title": "Chemical Additives",
+                    "path": "presence-of-chemical-additives-preservatives-colors"
+                  },
+                  {
+                    "title": "Animal Plasma",
+                    "path": "animal-plasma-spray-dried-plasma"
+                  }
+                ]
+              },
+              {
+                "group": "Standards & Guidelines",
+                "icon": "shield",
+                "pages": [
+                  {
+                    "title": "AAFCO & FEDIAF Guidelines",
+                    "path": "aafco-nutritional-guidelines"
+                  },
+                  {
+                    "title": "AAFCO Nutrient Requirements",
+                    "path": "aafco-nutrient-requirements-cats"
+                  }
+                ]
               }
             ]
           },
@@ -59,73 +197,88 @@
                 "title": "Database Guide",
                 "path": "database-guide",
                 "icon": "file-text"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "icon": "code",
-        "groups": [
-          {
-            "group": "Endpoints",
-            "openapi": "openapi.yaml"
-          }
-        ]
-      },
-      {
-        "tab": "Help Center",
-        "icon": "help-circle",
-        "pages": [
-          {
-            "title": "Help Center",
-            "path": "help-center",
-            "icon": "home"
-          },
-          {
-            "group": "FAQs",
-            "icon": "help-circle",
-            "expandable": false,
-            "pages": [
+              },
               {
-                "title": "What Is Food Rating?",
-                "path": "help-center/faq/what-is-food-rating"
-              }
-            ]
-          },
-          {
-            "group": "Troubleshooting",
-            "icon": "alert-triangle",
-            "expandable": false,
-            "pages": [
+                "group": "Choosing Cat Food",
+                "icon": "check-circle",
+                "pages": [
+                  {
+                    "title": "Benefits of Dry Cat Food",
+                    "path": "importance-benefits-dry-cat-food"
+                  },
+                  {
+                    "title": "Dry vs Wet Food",
+                    "path": "benefits-dry-cat-food-over-wet"
+                  },
+                  {
+                    "title": "Grain-Free Cat Food",
+                    "path": "grain-free-dry-cat-food-15-questions-answered"
+                  },
+                  {
+                    "title": "Life Stage Foods",
+                    "path": "life-stage-appropriate-foods-kitten-adult-senior-2"
+                  },
+                  {
+                    "title": "Vitamins & Supplements",
+                    "path": "can-cats-take-vitamins"
+                  }
+                ]
+              },
               {
-                "title": "Cat Food Not Found",
-                "path": "help-center/troubleshooting/cat-food-not-found"
-              }
-            ]
-          },
-          {
-            "group": "Guides",
-            "icon": "book-open",
-            "expandable": false,
-            "pages": [
+                "group": "Feeding Practices",
+                "icon": "utensils",
+                "pages": [
+                  {
+                    "title": "Body Condition Score",
+                    "path": "cat-body-condition-score"
+                  },
+                  {
+                    "title": "Switching Cat Food",
+                    "path": "switching-dry-cat-food-7-steps"
+                  },
+                  {
+                    "title": "Transitioning Foods",
+                    "path": "transition-cat-dry-food"
+                  }
+                ]
+              },
               {
-                "title": "How To Compare Foods",
-                "path": "help-center/guides/how-to-compare-foods"
+                "group": "Human Foods & Safety",
+                "icon": "alert-circle",
+                "pages": [
+                  {
+                    "title": "Can Cats Drink Milk?",
+                    "path": "can-cats-drink-cow-milk"
+                  },
+                  {
+                    "title": "Can Cats Eat Rice?",
+                    "path": "can-cats-eat-rice-6-proven-safe-feeding-guidelines"
+                  },
+                  {
+                    "title": "Can Cats Eat Eggs?",
+                    "path": "can-cats-eat-raw-eggs"
+                  },
+                  {
+                    "title": "Can Cats Eat Salmon?",
+                    "path": "can-cats-eat-raw-salmon-5-important-reasons-to-avoid"
+                  },
+                  {
+                    "title": "Can Cats Eat Bacon?",
+                    "path": "can-cats-eat-bacon"
+                  }
+                ]
+              },
+              {
+                "group": "Brand Comparisons",
+                "icon": "git-compare",
+                "pages": [
+                  {
+                    "title": "Nutrience Product Lines",
+                    "path": "nutrience-dry-cat-food-comparison"
+                  }
+                ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Changelog",
-        "icon": "clock",
-        "pages": [
-          {
-            "title": "Release History",
-            "path": "changelog",
-            "icon": "history"
           }
         ]
       }
