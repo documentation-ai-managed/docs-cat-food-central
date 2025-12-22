@@ -112,7 +112,7 @@
               {
                 "title": "Crude Protein",
                 "path": "crude-protein-in-dry-cat-food",
-                "icon": "beef"
+                "icon": "drumstick"
               },
               {
                 "title": "Crude Fat",
@@ -186,7 +186,7 @@
               {
                 "title": "Fresh vs Dried vs Meal Meats",
                 "path": "meat-ingredients-fresh-dehydrated-meals",
-                "icon": "beef"
+                "icon": "drumstick"
               },
               {
                 "title": "Dried Meat vs Fresh Meat",
@@ -298,17 +298,17 @@
               {
                 "title": "Can Cats Drink Milk?",
                 "path": "can-cats-drink-cows-milk",
-                "icon": "milk"
+                "icon": "cup-soda"
               },
               {
                 "title": "Can Cats Eat Rice?",
                 "path": "can-cats-eat-rice-6-proven-safe-feeding-guidelines",
-                "icon": "salad"
+                "icon": "wheat"
               },
               {
                 "title": "Can Cats Eat Eggs?",
                 "path": "can-cats-eat-raw-eggs",
-                "icon": "egg"
+                "icon": "egg-fried"
               },
               {
                 "title": "Can Cats Eat Salmon?",
@@ -318,7 +318,7 @@
               {
                 "title": "Can Cats Eat Bacon?",
                 "path": "can-cats-eat-bacon",
-                "icon": "bacon"
+                "icon": "utensils"
               }
             ]
           }
