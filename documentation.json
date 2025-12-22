@@ -160,11 +160,6 @@
                 "title": "AAFCO & FEDIAF Guidelines",
                 "path": "aafco-nutritional-guidelines",
                 "icon": "shield-check"
-              },
-              {
-                "title": "AAFCO Nutrient Requirements",
-                "path": "aafco-nutrient-requirements-cats",
-                "icon": "file-check"
               }
             ]
           }
@@ -182,11 +177,6 @@
                 "title": "Common Ingredients",
                 "path": "common-ingredients-in-dry-cat-food",
                 "icon": "list"
-              },
-              {
-                "title": "Fresh vs Dried vs Meal Meats",
-                "path": "meat-ingredients-fresh-dehydrated-meals",
-                "icon": "drumstick"
               },
               {
                 "title": "Dried Meat vs Fresh Meat",
@@ -227,11 +217,6 @@
                 "icon": "thumbs-up"
               },
               {
-                "title": "Dry vs Wet Food",
-                "path": "benefits-dry-cat-food-over-wet",
-                "icon": "git-compare"
-              },
-              {
                 "title": "Risks of Wet Food",
                 "path": "what-are-the-risks-of-feeding-cats-wet-food",
                 "icon": "alert-octagon"
@@ -261,11 +246,6 @@
                 "title": "Body Condition Score",
                 "path": "what-is-cat-body-condition-score-bcs",
                 "icon": "activity"
-              },
-              {
-                "title": "Switching Cat Food",
-                "path": "switching-dry-cat-food-7-steps",
-                "icon": "repeat"
               },
               {
                 "title": "Transitioning Foods",
