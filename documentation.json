@@ -22,12 +22,12 @@
               {
                 "title": "Introduction to Scoring",
                 "path": "intro-to-our-scoring-system",
-                "icon": "info"
+                "icon": "star"
               },
               {
                 "title": "The Nine Calculation Rules",
                 "path": "explanation-of-the-nine-score-calculation-rules",
-                "icon": "list"
+                "icon": "list-ordered"
               }
             ]
           },
@@ -48,7 +48,7 @@
               {
                 "title": "Ingredient Order & Weight",
                 "path": "ingredient-order-and-relative-weight",
-                "icon": "bar-chart"
+                "icon": "scale"
               }
             ]
           },
@@ -107,27 +107,32 @@
               {
                 "title": "Nutritional Requirements",
                 "path": "nutritional-requirements-for-cats-in-dry-food",
-                "icon": "clipboard"
+                "icon": "clipboard-list"
               },
               {
                 "title": "Crude Protein",
-                "path": "crude-protein-in-dry-cat-food"
+                "path": "crude-protein-in-dry-cat-food",
+                "icon": "beef"
               },
               {
                 "title": "Crude Fat",
-                "path": "crude-fat-in-dry-cat-food"
+                "path": "crude-fat-in-dry-cat-food",
+                "icon": "droplets"
               },
               {
                 "title": "Crude Fiber",
-                "path": "crude-fiber-in-dry-cat-food"
+                "path": "crude-fiber-in-dry-cat-food",
+                "icon": "wheat"
               },
               {
                 "title": "Essential Fatty Acids",
-                "path": "essential-fatty-acids"
+                "path": "essential-fatty-acids",
+                "icon": "fish"
               },
               {
                 "title": "Calories & Metabolizable Energy",
-                "path": "calories-and-metabolizable-energy-in-dry-cat-food"
+                "path": "calories-and-metabolizable-energy-in-dry-cat-food",
+                "icon": "flame"
               }
             ]
           },
@@ -137,11 +142,13 @@
             "pages": [
               {
                 "title": "Signs of Nutrient Deficiency",
-                "path": "how-do-you-determine-if-a-cat-is-not-getting-enough-nutrients"
+                "path": "how-do-you-determine-if-a-cat-is-not-getting-enough-nutrients",
+                "icon": "search"
               },
               {
                 "title": "Consequences of Poor Nutrition",
-                "path": "what-are-the-consequences-of-not-meeting-a-cats-nutritional-requirements"
+                "path": "what-are-the-consequences-of-not-meeting-a-cats-nutritional-requirements",
+                "icon": "alert-triangle"
               }
             ]
           },
@@ -151,11 +158,13 @@
             "pages": [
               {
                 "title": "AAFCO & FEDIAF Guidelines",
-                "path": "aafco-nutritional-guidelines"
+                "path": "aafco-nutritional-guidelines",
+                "icon": "shield-check"
               },
               {
                 "title": "AAFCO Nutrient Requirements",
-                "path": "aafco-nutrient-requirements-cats"
+                "path": "aafco-nutrient-requirements-cats",
+                "icon": "file-check"
               }
             ]
           }
@@ -176,15 +185,18 @@
               },
               {
                 "title": "Fresh vs Dried vs Meal Meats",
-                "path": "meat-ingredients-fresh-dehydrated-meals"
+                "path": "meat-ingredients-fresh-dehydrated-meals",
+                "icon": "beef"
               },
               {
                 "title": "Dried Meat vs Fresh Meat",
-                "path": "dried-meat-vs-fresh-meat"
+                "path": "dried-meat-vs-fresh-meat",
+                "icon": "scale"
               },
               {
                 "title": "Animal Plasma",
-                "path": "animal-plasma-and-spray-dried-animal-plasma-in-dry-cat-food-everything-to-know"
+                "path": "animal-plasma-and-spray-dried-animal-plasma-in-dry-cat-food-everything-to-know",
+                "icon": "droplet"
               }
             ]
           },
@@ -194,7 +206,8 @@
             "pages": [
               {
                 "title": "Chemical Additives",
-                "path": "presence-of-chemical-additives-preservatives-colors"
+                "path": "presence-of-chemical-additives-preservatives-colors",
+                "icon": "flask-conical"
               }
             ]
           }
@@ -215,23 +228,28 @@
               },
               {
                 "title": "Dry vs Wet Food",
-                "path": "benefits-dry-cat-food-over-wet"
+                "path": "benefits-dry-cat-food-over-wet",
+                "icon": "git-compare"
               },
               {
                 "title": "Risks of Wet Food",
-                "path": "what-are-the-risks-of-feeding-cats-wet-food"
+                "path": "what-are-the-risks-of-feeding-cats-wet-food",
+                "icon": "alert-octagon"
               },
               {
                 "title": "Grain-Free Cat Food",
-                "path": "grain-free-dry-cat-food-15-questions-answered"
+                "path": "grain-free-dry-cat-food-15-questions-answered",
+                "icon": "wheat-off"
               },
               {
                 "title": "Life Stage Foods",
-                "path": "life-stage-appropriate-foods-kitten-adult-senior-2"
+                "path": "life-stage-appropriate-foods-kitten-adult-senior-2",
+                "icon": "baby"
               },
               {
                 "title": "Vitamins & Supplements",
-                "path": "can-cats-take-vitamins"
+                "path": "can-cats-take-vitamins",
+                "icon": "pill"
               }
             ]
           },
@@ -241,15 +259,18 @@
             "pages": [
               {
                 "title": "Body Condition Score",
-                "path": "what-is-cat-body-condition-score-bcs"
+                "path": "what-is-cat-body-condition-score-bcs",
+                "icon": "activity"
               },
               {
                 "title": "Switching Cat Food",
-                "path": "switching-dry-cat-food-7-steps"
+                "path": "switching-dry-cat-food-7-steps",
+                "icon": "repeat"
               },
               {
                 "title": "Transitioning Foods",
-                "path": "how-should-i-transition-my-cat-from-one-dry-food-to-another"
+                "path": "how-should-i-transition-my-cat-from-one-dry-food-to-another",
+                "icon": "arrow-right-left"
               }
             ]
           },
@@ -259,40 +280,45 @@
             "pages": [
               {
                 "title": "Nutrience Product Lines",
-                "path": "nutrience-dry-cat-food"
+                "path": "nutrience-dry-cat-food",
+                "icon": "layers"
               }
             ]
           }
         ]
       },
       {
-        "tab": "Human Foods",
-        "icon": "alert-circle",
+        "tab": "Can Cats Eat...?",
+        "icon": "help-circle",
         "groups": [
           {
-            "group": "Can Cats Eat...?",
-            "icon": "help-circle",
+            "group": "Human Foods & Safety",
+            "icon": "alert-circle",
             "pages": [
               {
                 "title": "Can Cats Drink Milk?",
                 "path": "can-cats-drink-cows-milk",
-                "icon": "droplet"
+                "icon": "milk"
               },
               {
                 "title": "Can Cats Eat Rice?",
-                "path": "can-cats-eat-rice-6-proven-safe-feeding-guidelines"
+                "path": "can-cats-eat-rice-6-proven-safe-feeding-guidelines",
+                "icon": "salad"
               },
               {
                 "title": "Can Cats Eat Eggs?",
-                "path": "can-cats-eat-raw-eggs"
+                "path": "can-cats-eat-raw-eggs",
+                "icon": "egg"
               },
               {
                 "title": "Can Cats Eat Salmon?",
-                "path": "can-cats-eat-raw-salmon-5-important-reasons-to-avoid"
+                "path": "can-cats-eat-raw-salmon-5-important-reasons-to-avoid",
+                "icon": "fish"
               },
               {
                 "title": "Can Cats Eat Bacon?",
-                "path": "can-cats-eat-bacon"
+                "path": "can-cats-eat-bacon",
+                "icon": "bacon"
               }
             ]
           }
