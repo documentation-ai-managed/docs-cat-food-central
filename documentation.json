@@ -1,6 +1,6 @@
 {
   "name": "Cat Food Central",
-  "initialRoute": "score-calculation-methodology",
+  "initialRoute": "intro-to-our-scoring-system",
   "colors": {
     "light": {
       "brand": "#d1da35"
@@ -21,12 +21,12 @@
             "pages": [
               {
                 "title": "Introduction to Scoring",
-                "path": "score-calculation-methodology",
+                "path": "intro-to-our-scoring-system",
                 "icon": "info"
               },
               {
                 "title": "The Nine Calculation Rules",
-                "path": "nine-score-calculation-rules",
+                "path": "explanation-of-the-nine-score-calculation-rules",
                 "icon": "list"
               }
             ]
@@ -47,7 +47,7 @@
               },
               {
                 "title": "Ingredient Order & Weight",
-                "path": "ingredient-order-relative-weight",
+                "path": "ingredient-order-and-relative-weight",
                 "icon": "bar-chart"
               }
             ]
@@ -58,19 +58,19 @@
             "pages": [
               {
                 "title": "Rule 1: Carbohydrates",
-                "path": "rule-1-carbohydrates"
+                "path": "rule-1-amount-and-quality-of-carbohydrates"
               },
               {
                 "title": "Rule 2: Protein Amount",
-                "path": "rule-2-protein"
+                "path": "rule-2-amount-of-protein"
               },
               {
                 "title": "Rule 3: Non-Meat Protein",
-                "path": "rule-3-non-meat-protein"
+                "path": "rule-3-non-meat-protein-plant-or-vegetable"
               },
               {
                 "title": "Rule 4: Meat & Fat Sources",
-                "path": "rule-4-meat-fat-source"
+                "path": "rule-4-source-of-meat-and-fat-ingredients"
               },
               {
                 "title": "Rule 5: Chemical Additives",
@@ -78,15 +78,15 @@
               },
               {
                 "title": "Rule 6: Additional Animal Protein",
-                "path": "rule-6-additional-animal-protein"
+                "path": "rule-6-additional-source-of-animal-protein"
               },
               {
                 "title": "Rule 7: Meat Quality & Location",
-                "path": "rule-7-meat-quality-location"
+                "path": "rule-7-quality-and-location-impact-of-meat-ingredients"
               },
               {
                 "title": "Rule 8: Natural Taurine",
-                "path": "rule-8-taurine"
+                "path": "rule-8-natural-source-of-taurine"
               },
               {
                 "title": "Rule 9: Chelated Minerals",
@@ -137,11 +137,11 @@
             "pages": [
               {
                 "title": "Signs of Nutrient Deficiency",
-                "path": "determine-cat-not-getting-nutrients"
+                "path": "how-do-you-determine-if-a-cat-is-not-getting-enough-nutrients"
               },
               {
                 "title": "Consequences of Poor Nutrition",
-                "path": "consequences-not-meeting-nutritional-requirements"
+                "path": "what-are-the-consequences-of-not-meeting-a-cats-nutritional-requirements"
               }
             ]
           },
@@ -184,7 +184,7 @@
               },
               {
                 "title": "Animal Plasma",
-                "path": "animal-plasma-spray-dried-plasma"
+                "path": "animal-plasma-and-spray-dried-animal-plasma-in-dry-cat-food-everything-to-know"
               }
             ]
           },
@@ -210,7 +210,7 @@
             "pages": [
               {
                 "title": "Benefits of Dry Cat Food",
-                "path": "importance-benefits-dry-cat-food",
+                "path": "importance-of-dry-cat-food-in-feline-nutrition",
                 "icon": "thumbs-up"
               },
               {
@@ -219,7 +219,7 @@
               },
               {
                 "title": "Risks of Wet Food",
-                "path": "risks-feeding-cats-wet-food"
+                "path": "what-are-the-risks-of-feeding-cats-wet-food"
               },
               {
                 "title": "Grain-Free Cat Food",
@@ -241,7 +241,7 @@
             "pages": [
               {
                 "title": "Body Condition Score",
-                "path": "cat-body-condition-score"
+                "path": "what-is-cat-body-condition-score-bcs"
               },
               {
                 "title": "Switching Cat Food",
@@ -249,7 +249,7 @@
               },
               {
                 "title": "Transitioning Foods",
-                "path": "transition-cat-dry-food"
+                "path": "how-should-i-transition-my-cat-from-one-dry-food-to-another"
               }
             ]
           },
@@ -259,7 +259,7 @@
             "pages": [
               {
                 "title": "Nutrience Product Lines",
-                "path": "nutrience-dry-cat-food-comparison"
+                "path": "nutrience-dry-cat-food"
               }
             ]
           }
@@ -275,7 +275,7 @@
             "pages": [
               {
                 "title": "Can Cats Drink Milk?",
-                "path": "can-cats-drink-cow-milk",
+                "path": "can-cats-drink-cows-milk",
                 "icon": "droplet"
               },
               {
