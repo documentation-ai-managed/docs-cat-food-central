@@ -3,14 +3,10 @@
   "initialRoute": "score-calculation-methodology",
   "colors": {
     "light": {
-      "brand": "#032F1E",
-      "heading": "#032F1E",
-      "text": "#374151"
+      "brand": "#d1da35"
     },
     "dark": {
-      "brand": "#F5FBF8",
-      "heading": "#f2f2f2",
-      "text": "#c1c1c1"
+      "brand": "#dde368"
     }
   },
   "navigation": {
