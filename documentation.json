@@ -328,9 +328,16 @@
             "pages": [
               {
                 "title": "What is Cat Food Central?",
-                "path": "faq/what-is-cat-food-central"
+                "path": "faq/what-is-cat-food-central",
+                "icon": "lucide-cat"
+              },
+              {
+                "title": "Who's behind Cat Food Central?",
+                "path": "faq/whos-behind-cat-food-central",
+                "icon": "lucide-user"
               }
-            ]
+            ],
+            "icon": "alert-circle-icon"
           }
         ]
       }
