@@ -318,6 +318,21 @@
           }
         ],
         "icon": "refresh-cw"
+      },
+      {
+        "tab": "FAQ & Help",
+        "icon": "lucide-message-circle-question",
+        "groups": [
+          {
+            "group": "About Cat Food Central",
+            "pages": [
+              {
+                "title": "What is Cat Food Central?",
+                "path": "faq/what-is-cat-food-central"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
