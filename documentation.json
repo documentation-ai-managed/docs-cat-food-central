@@ -309,17 +309,6 @@
         ]
       },
       {
-        "tab": "What's New?",
-        "pages": [
-          {
-            "title": "What's New?",
-            "path": "whats-new",
-            "icon": "refresh-cw"
-          }
-        ],
-        "icon": "refresh-cw"
-      },
-      {
         "tab": "FAQ & Help",
         "icon": "lucide-message-circle-question",
         "groups": [
@@ -340,6 +329,17 @@
             "icon": "alert-circle-icon"
           }
         ]
+      },
+      {
+        "tab": "What's New?",
+        "pages": [
+          {
+            "title": "What's New?",
+            "path": "whats-new",
+            "icon": "refresh-cw"
+          }
+        ],
+        "icon": "refresh-cw"
       }
     ]
   },
@@ -349,8 +349,8 @@
     "sitemap:enabled": true,
     "llms-txt:enabled": true
   },
-  "logo-light": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767170657290-ot9ued6wxxc-Cat-Food-Central-2---Green-Horizontal-Logo--1-line-text--cropped--1-.png?q=85&fm=auto&auto=compress%2Cformat",
-  "logo-dark": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767170512246-gzohfw7gfss-Cat-Food-Central-2---White-Horizontal-Logo--1-line-text--cropped.webp?q=85&fm=auto&auto=compress%2Cformat",
+  "logo-light": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767170657290-ot9ued6wxxc-Cat-Food-Central-2---Green-Horizontal-Logo--1-line-text--cropped--1-line-text--cropped--1-.png?q=85&fm=auto&auto=compress%2Cformat",
+  "logo-dark": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767170512246-gzohfw7gfss-Cat-Food-Central-2---White-Horizontal-Logo--cropped.webp?q=85&fm=auto&auto=compress%2Cformat",
   "favicon": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767171371513-vbubzpc8sp-Cat-Food-Central-6---Cat-Icon--green--cropped--2-.svg?q=85&fm=auto&auto=compress%2Cformat",
   "template": "classic",
   "navbar": {
