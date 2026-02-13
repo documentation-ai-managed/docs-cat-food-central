@@ -322,10 +322,10 @@
     ]
   },
   "seo": {
-    "robots:index": false,
-    "robots:follow": false,
-    "sitemap:enabled": false,
-    "llms-txt:enabled": false
+    "robots:index": true,
+    "robots:follow": true,
+    "sitemap:enabled": true,
+    "llms-txt:enabled": true
   },
   "logo-light": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767170657290-ot9ued6wxxc-Cat-Food-Central-2---Green-Horizontal-Logo--1-line-text--cropped--1-.png?q=85&fm=auto&auto=compress%2Cformat",
   "logo-dark": "https://blob-cdn.documentation.ai/org-254e111e-358c-44c7-920e-7e9f9014c204/doc-605384b0-02fe-447b-b3a6-61c7f2d41f44/1767170512246-gzohfw7gfss-Cat-Food-Central-2---White-Horizontal-Logo--1-line-text--cropped.webp?q=85&fm=auto&auto=compress%2Cformat",
