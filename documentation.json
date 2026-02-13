@@ -333,12 +333,10 @@
   "template": "classic",
   "navbar": {
     "actions": {
-      "links": [
-        {
-          "title": "Browse Dry Cat Foods",
-          "link": "https://catfoodcentral.co"
-        }
-      ]
+      "primary": {
+        "title": "Browse Dry Cat Foods",
+        "link": "https://catfoodcentral.co"
+      }
     }
   }
 }
