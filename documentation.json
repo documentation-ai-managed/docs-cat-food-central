@@ -334,8 +334,13 @@
         "tab": "What's New?",
         "pages": [
           {
-            "title": "What's New?",
-            "path": "whats-new",
+            "title": "2026",
+            "path": "2026",
+            "icon": "lucide-refresh-cw"
+          },
+          {
+            "title": "2025",
+            "path": "2025",
             "icon": "refresh-cw"
           }
         ],
