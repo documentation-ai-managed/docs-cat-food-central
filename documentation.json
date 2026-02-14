@@ -334,6 +334,11 @@
                 "title": "Pricing",
                 "path": "faq/pricing",
                 "icon": "lucide-dollar-sign"
+              },
+              {
+                "title": "Sponsorships",
+                "path": "faq/sponsorships",
+                "icon": "align-center-icon"
               }
             ],
             "icon": "alert-circle-icon"
