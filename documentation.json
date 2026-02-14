@@ -342,6 +342,22 @@
               }
             ],
             "icon": "alert-circle-icon"
+          },
+          {
+            "group": "The Scoring System",
+            "pages": [
+              {
+                "title": "How Scores Work",
+                "path": "faq/how-scores-work",
+                "icon": "lucide-star"
+              },
+              {
+                "title": "Scoring Criteria",
+                "path": "faq/scoring-criteria",
+                "icon": "list-checks-icon"
+              }
+            ],
+            "icon": "lucide-trophy"
           }
         ]
       },
