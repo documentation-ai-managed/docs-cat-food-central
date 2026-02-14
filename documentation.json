@@ -355,6 +355,21 @@
                 "title": "Scoring Criteria",
                 "path": "faq/scoring-criteria",
                 "icon": "list-checks-icon"
+              },
+              {
+                "title": "The 9 Rules",
+                "path": "faq/the-9-rules",
+                "icon": "lucide-list-ordered"
+              },
+              {
+                "title": "Maximum Score",
+                "path": "faq/maximum-score",
+                "icon": "arrow-up-to-line-icon"
+              },
+              {
+                "title": "Low Score",
+                "path": "faq/low-score",
+                "icon": "arrow-down-to-line-icon"
               }
             ],
             "icon": "lucide-trophy"
