@@ -329,6 +329,11 @@
                 "title": "Coverage",
                 "path": "faq/coverage",
                 "icon": "scan-eye-icon"
+              },
+              {
+                "title": "Pricing",
+                "path": "faq/pricing",
+                "icon": "lucide-dollar-sign"
               }
             ],
             "icon": "alert-circle-icon"
