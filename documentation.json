@@ -401,6 +401,16 @@
                 "title": "Dry Matter Basis",
                 "path": "faq/dry-matter-basis",
                 "icon": "baseline-icon"
+              },
+              {
+                "title": "Protein",
+                "path": "faq/protein",
+                "icon": "egg-icon"
+              },
+              {
+                "title": "Carbohydrates",
+                "path": "faq/carbohydrates",
+                "icon": "wheat-icon"
               }
             ],
             "icon": "grid2-x2-check-icon"
