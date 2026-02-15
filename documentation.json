@@ -370,9 +370,40 @@
                 "title": "Low Score",
                 "path": "faq/low-score",
                 "icon": "arrow-down-to-line-icon"
+              },
+              {
+                "title": "Score vs Individual Needs",
+                "path": "faq/score-vs-individual-needs",
+                "icon": "trophy-icon"
+              },
+              {
+                "title": "Palatability",
+                "path": "faq/palatability",
+                "icon": "fork-knife-crossed-icon"
+              },
+              {
+                "title": "Score Exclusions",
+                "path": "faq/score-exclusions",
+                "icon": "squares-exclude-icon"
+              },
+              {
+                "title": "Wet Food & Raw",
+                "path": "faq/wet-food-raw",
+                "icon": "glass-water-icon"
               }
             ],
             "icon": "lucide-trophy"
+          },
+          {
+            "group": "Nutrition & Ingredients",
+            "pages": [
+              {
+                "title": "Dry Matter Basis",
+                "path": "faq/dry-matter-basis",
+                "icon": "baseline-icon"
+              }
+            ],
+            "icon": "grid2-x2-check-icon"
           }
         ]
       },
