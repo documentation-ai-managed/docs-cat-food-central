@@ -381,12 +381,12 @@
         "pages": [
           {
             "title": "2026",
-            "path": "2026",
+            "path": "whats-new/2026",
             "icon": "lucide-refresh-cw"
           },
           {
             "title": "2025",
-            "path": "2025",
+            "path": "whats-new/2025",
             "icon": "refresh-cw"
           }
         ],
