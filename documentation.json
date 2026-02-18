@@ -420,12 +420,37 @@
               {
                 "title": "By-products",
                 "path": "faq/by-products",
-                "icon": "file-plus2-icon"
+                "icon": "arrow-down-right-from-circle-icon"
               },
               {
                 "title": "Plant Proteins",
                 "path": "faq/plant-proteins",
                 "icon": "vegan-icon"
+              },
+              {
+                "title": "Additives",
+                "path": "faq/additives",
+                "icon": "circle-fading-plus-icon"
+              },
+              {
+                "title": "Ingredient Order",
+                "path": "faq/ingredient-order",
+                "icon": "list-ordered-icon"
+              },
+              {
+                "title": "Taurine",
+                "path": "faq/taurine",
+                "icon": "heart-handshake-icon"
+              },
+              {
+                "title": "Chelated Minerals",
+                "path": "faq/chelated-minerals",
+                "icon": "tractor-icon"
+              },
+              {
+                "title": "Grain-Free",
+                "path": "faq/grain-free",
+                "icon": "wheat-off-icon"
               }
             ],
             "icon": "grid2-x2-check-icon"
