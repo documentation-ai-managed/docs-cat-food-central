@@ -411,6 +411,21 @@
                 "title": "Carbohydrates",
                 "path": "faq/carbohydrates",
                 "icon": "wheat-icon"
+              },
+              {
+                "title": "Guaranteed Analysis",
+                "path": "faq/guaranteed-analysis",
+                "icon": "table2-icon"
+              },
+              {
+                "title": "By-products",
+                "path": "faq/by-products",
+                "icon": "file-plus2-icon"
+              },
+              {
+                "title": "Plant Proteins",
+                "path": "faq/plant-proteins",
+                "icon": "vegan-icon"
               }
             ],
             "icon": "grid2-x2-check-icon"
