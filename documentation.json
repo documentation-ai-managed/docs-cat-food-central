@@ -496,11 +496,11 @@
   "ai": {
     "page-actions": []
   },
+  "title": "Cat Food Central Knowledge Center",
   "integrations": {
     "posthog": {
-      "apiKey": "phx_xIQaCtNbwk1KN5QB6leEX2YY3xumtlWgjUmQcHK60ufvCWi",
+      "apiKey": "phc_H6bzRYARrZlCzZsYulA9C93By1xChH7qyO7UjEPePfb",
       "apiHost": "https://us.i.posthog.com"
     }
-  },
-  "title": "Cat Food Central Knowledge Center"
+  }
 }
