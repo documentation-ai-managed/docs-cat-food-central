@@ -473,22 +473,6 @@
         ]
       },
       {
-        "tab": "What's New?",
-        "pages": [
-          {
-            "title": "2026",
-            "path": "whats-new/2026",
-            "icon": "lucide-refresh-cw"
-          },
-          {
-            "title": "2025",
-            "path": "whats-new/2025",
-            "icon": "refresh-cw"
-          }
-        ],
-        "icon": "refresh-cw"
-      },
-      {
         "tab": "Using the site",
         "pages": [
           {
@@ -508,6 +492,22 @@
           }
         ],
         "icon": "circle-help"
+      },
+      {
+        "tab": "What's New?",
+        "pages": [
+          {
+            "title": "2026",
+            "path": "whats-new/2026",
+            "icon": "lucide-refresh-cw"
+          },
+          {
+            "title": "2025",
+            "path": "whats-new/2025",
+            "icon": "refresh-cw"
+          }
+        ],
+        "icon": "refresh-cw"
       }
     ]
   },
