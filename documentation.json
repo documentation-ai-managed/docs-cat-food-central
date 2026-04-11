@@ -347,6 +347,11 @@
             "group": "The Scoring System",
             "pages": [
               {
+                "title": "Life Stages",
+                "path": "faq/life-stages",
+                "icon": "clock7-icon"
+              },
+              {
                 "title": "How Scores Work",
                 "path": "faq/how-scores-work",
                 "icon": "lucide-star"
@@ -398,6 +403,11 @@
             "group": "Nutrition & Ingredients",
             "pages": [
               {
+                "title": "Hydrolyzed Protein",
+                "path": "faq/hydrolyzed-protein",
+                "icon": "washing-machine-icon"
+              },
+              {
                 "title": "Dry Matter Basis",
                 "path": "faq/dry-matter-basis",
                 "icon": "baseline-icon"
@@ -406,6 +416,11 @@
                 "title": "Protein",
                 "path": "faq/protein",
                 "icon": "egg-icon"
+              },
+              {
+                "title": "Crude Ash",
+                "path": "faq/crude-ash",
+                "icon": "flame-kindling-icon"
               },
               {
                 "title": "Carbohydrates",
@@ -472,6 +487,27 @@
           }
         ],
         "icon": "refresh-cw"
+      },
+      {
+        "tab": "Using the site",
+        "pages": [
+          {
+            "title": "Advanced Search",
+            "path": "using-the-site/advanced-search",
+            "icon": "circle-help-icon"
+          },
+          {
+            "title": "View Modes",
+            "path": "using-the-site/view-modes",
+            "icon": "grid"
+          },
+          {
+            "title": "Browse Brands",
+            "path": "using-the-site/brands",
+            "icon": "lucide-tags"
+          }
+        ],
+        "icon": "circle-help"
       }
     ]
   },
