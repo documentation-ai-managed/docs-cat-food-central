@@ -137,6 +137,11 @@
                 "title": "Calories & Metabolizable Energy",
                 "path": "calories-and-metabolizable-energy-in-dry-cat-food",
                 "icon": "flame"
+              },
+              {
+                "title": "Healthy Cat Weight",
+                "path": "Healthy Cat Weight",
+                "icon": "scale"
               }
             ]
           },
@@ -497,17 +502,18 @@
         "tab": "What's New?",
         "pages": [
           {
-            "title": "2026",
-            "path": "whats-new/2026",
-            "icon": "lucide-refresh-cw"
-          },
-          {
             "title": "2025",
             "path": "whats-new/2025",
             "icon": "refresh-cw"
+          },
+          {
+            "title": "2026",
+            "path": "whats-new/2026",
+            "icon": "lucide-refresh-cw"
           }
         ],
-        "icon": "refresh-cw"
+        "icon": "refresh-cw",
+        "path": "whatsnew"
       }
     ]
   },
