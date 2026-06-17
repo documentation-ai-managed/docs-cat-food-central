@@ -305,6 +305,11 @@
                 "icon": "fish"
               },
               {
+                "title": "Can Cats Eat Tuna?",
+                "path": "can-cats-eat-tuna",
+                "icon": "fish"
+              },
+              {
                 "title": "Can Cats Eat Bacon?",
                 "path": "can-cats-eat-bacon",
                 "icon": "utensils"
