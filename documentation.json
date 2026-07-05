@@ -364,6 +364,11 @@
                 "title": "Suggest a Product",
                 "path": "faq/suggest-product",
                 "icon": "plus-circle"
+              },
+              {
+                "title": "Vet Advice",
+                "path": "faq/vet-advice",
+                "icon": "stethoscope"
               }
             ],
             "icon": "alert-circle-icon"
