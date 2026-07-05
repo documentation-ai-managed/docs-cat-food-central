@@ -369,6 +369,11 @@
                 "title": "Vet Advice",
                 "path": "faq/vet-advice",
                 "icon": "stethoscope"
+              },
+              {
+                "title": "Pricing & Availability",
+                "path": "faq/availability",
+                "icon": "map-pin"
               }
             ],
             "icon": "alert-circle-icon"
