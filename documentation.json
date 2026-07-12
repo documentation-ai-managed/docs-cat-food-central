@@ -105,11 +105,13 @@
         "pages": [
           {
             "title": "What is Catboard?",
-            "path": "catboard/what-is-catboard"
+            "path": "catboard/what-is-catboard",
+            "icon": "lucide-file-question-mark"
           },
           {
             "title": "Getting Started",
-            "path": "catboard/getting-started"
+            "path": "catboard/getting-started",
+            "icon": "lucide-play"
           },
           {
             "title": "Adding a Cat",
@@ -118,11 +120,13 @@
           },
           {
             "title": "Watching a Food",
-            "path": "catboard/watching-a-food"
+            "path": "catboard/watching-a-food",
+            "icon": "bookmark"
           },
           {
             "title": "Basic vs Advanced Search",
-            "path": "catboard/basic-vs-advanced-search"
+            "path": "catboard/basic-vs-advanced-search",
+            "icon": "search"
           }
         ],
         "icon": "lucide-sparkles"
