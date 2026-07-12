@@ -113,11 +113,8 @@
           },
           {
             "title": "Adding a Cat",
-            "path": "catboard/adding-a-cat"
-          },
-          {
-            "title": "Watching a Food",
-            "path": "catboard/watching-a-food"
+            "path": "catboard/adding-cat",
+            "icon": "cat"
           },
           {
             "title": "Basic vs Advanced Search",
