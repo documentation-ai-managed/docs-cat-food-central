@@ -101,6 +101,34 @@
         ]
       },
       {
+        "tab": "Catboard",
+        "pages": [
+          {
+            "title": "What is Catboard?",
+            "path": "catboard/what-is-catboard"
+          },
+          {
+            "title": "Getting Started",
+            "path": "catboard/getting-started"
+          },
+          {
+            "title": "Adding a Cat",
+            "path": "catboard/adding-a-cat"
+          },
+          {
+            "title": "Watching a Food",
+            "path": "catboard/watching-a-food"
+          },
+          {
+            "title": "Basic vs Advanced Search",
+            "path": "catboard/basic-vs-advanced-search"
+          }
+        ],
+        "icon": "lucide-sparkles",
+        "path": "catboard",
+        "badge": "NEW"
+      },
+      {
         "tab": "Nutrition",
         "icon": "heart",
         "groups": [
@@ -544,32 +572,6 @@
         ],
         "icon": "refresh-cw",
         "path": "whatsnew"
-      },
-      {
-        "tab": "Catboard",
-        "pages": [
-          {
-            "title": "What is Catboard?",
-            "path": "catboard/what-is-catboard"
-          },
-          {
-            "title": "Getting Started",
-            "path": "catboard/getting-started"
-          },
-          {
-            "title": "Adding a Cat",
-            "path": "catboard/adding-a-cat"
-          },
-          {
-            "title": "Watching a Food",
-            "path": "catboard/watching-a-food"
-          },
-          {
-            "title": "Basic vs Advanced Search",
-            "path": "catboard/basic-vs-advanced-search"
-          }
-        ],
-        "icon": "lucide-sparkles"
       }
     ]
   },
