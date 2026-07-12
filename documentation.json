@@ -550,23 +550,23 @@
         "pages": [
           {
             "title": "What is Catboard?",
-            "path": "what-is-catboard"
+            "path": "catboard/what-is-catboard"
           },
           {
             "title": "Getting Started",
-            "path": "getting-started"
+            "path": "catboard/getting-started"
           },
           {
             "title": "Adding a Cat",
-            "path": "adding-a-cat"
+            "path": "catboard/adding-a-cat"
           },
           {
             "title": "Watching a Food",
-            "path": "watching-a-food"
+            "path": "catboard/watching-a-food"
           },
           {
             "title": "Basic vs Advanced Search",
-            "path": "basic-vs-advanced-search"
+            "path": "catboard/basic-vs-advanced-search"
           }
         ],
         "icon": "lucide-sparkles"
