@@ -104,6 +104,10 @@
         "tab": "Catboard",
         "pages": [
           {
+            "title": "Watching a Food",
+            "path": "catboard/watching-a-food"
+          },
+          {
             "title": "What is Catboard?",
             "path": "catboard/what-is-catboard"
           },
@@ -121,9 +125,7 @@
             "path": "catboard/basic-vs-advanced-search"
           }
         ],
-        "icon": "lucide-sparkles",
-        "path": "catboard",
-        "badge": "NEW"
+        "icon": "lucide-sparkles"
       },
       {
         "tab": "Nutrition",
