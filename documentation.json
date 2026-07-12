@@ -544,6 +544,32 @@
         ],
         "icon": "refresh-cw",
         "path": "whatsnew"
+      },
+      {
+        "tab": "Catboard",
+        "pages": [
+          {
+            "title": "What is Catboard?",
+            "path": "what-is-catboard"
+          },
+          {
+            "title": "Getting Started",
+            "path": "getting-started"
+          },
+          {
+            "title": "Adding a Cat",
+            "path": "adding-a-cat"
+          },
+          {
+            "title": "Watching a Food",
+            "path": "watching-a-food"
+          },
+          {
+            "title": "Basic vs Advanced Search",
+            "path": "basic-vs-advanced-search"
+          }
+        ],
+        "icon": "lucide-sparkles"
       }
     ]
   },
