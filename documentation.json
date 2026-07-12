@@ -104,10 +104,6 @@
         "tab": "Catboard",
         "pages": [
           {
-            "title": "Watching a Food",
-            "path": "catboard/watching-a-food"
-          },
-          {
             "title": "What is Catboard?",
             "path": "catboard/what-is-catboard"
           },
@@ -119,6 +115,10 @@
             "title": "Adding a Cat",
             "path": "catboard/adding-cat",
             "icon": "cat"
+          },
+          {
+            "title": "Watching a Food",
+            "path": "catboard/watching-a-food"
           },
           {
             "title": "Basic vs Advanced Search",
