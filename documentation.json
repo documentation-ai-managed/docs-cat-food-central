@@ -601,10 +601,6 @@
   },
   "title": "Cat Food Central Knowledge Center",
   "integrations": {
-    "posthog": {
-      "apiKey": "phc_H6bzRYARrZlCzZsYulA9C93By1xChH7qyO7UjEPePfb",
-      "apiHost": "https://us.i.posthog.com"
-    },
     "ga4": {
       "measurementId": "G-ZJXJN34NGW"
     }
